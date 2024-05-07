@@ -1,0 +1,33 @@
+.container {
+  height: 300px;
+  width: 500px;
+  margin: 200px auto;
+  text-align: center;
+  font-size: 24px;
+  box-shadow: 0 0 10px black;
+}
+input {
+  padding: 10px;
+  width: 50%;
+}
+button {
+  padding: 5px;
+  font-size: 18px;
+}
+.counterapp {
+  height: 300px;
+  width: 500px;
+  margin: 200px auto;
+  text-align: center;
+  display: none;
+  box-shadow: 0 0 10px black;
+}
+#countlabel {
+  font-size: 60px;
+}
+#close {
+  background-color: rgb(227, 84, 84);
+  border-radius: 5px;
+  font-size: 20px;
+  margin-top: 10px;
+}
